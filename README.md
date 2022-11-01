@@ -7,6 +7,7 @@
   -Anything where I can learn something new!
 - 📫 How to reach me ...
   -My email: samvrny@gmail.com
+  -My Linkedin: www.linkedin.com/in/samuel-varney
 
 
 
