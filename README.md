@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @samvrny, a new web developer!
+- 👋 Hi, I’m @samvrny, a full stack web developer!
 - 👀 I’m interested in ...
   - Learning new things about all things web development!
 - 🌱 I’m currently learning ...
-  I am currently enrolled in a fullstack web development program from the University of Wisconsin that emphasizes Javascript and MERN 
+  I am recently graduated from a fullstack web development program from the University of Wisconsin through 2U that emphasizes Javascript and the MERN stack
 - 💞️ I’m looking to collaborate on ...
-  -Anything where I can learn something new!
+  -Anything where I can learn something new, And anywhere I can get a chance to write more Javascript!
 - 📫 How to reach me ...
   -My email: samvrny@gmail.com
   -My Linkedin: www.linkedin.com/in/samuel-varney
