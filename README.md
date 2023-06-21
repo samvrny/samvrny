@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @samvrny, a full stack web developer!
 - 👀 I’m interested in ...
-  - Learning new things about web development!
+  - Javascript, web development, and game development
 - 🌱 I’m currently learning ...
-  I am recently graduated from a fullstack web development program from the University of Wisconsin through 2U that emphasizes Javascript and the MERN stack
+  I graduated the University of Wisconsin's coding bootcamp in November 2022. I am currently learning Vue through the Zero To Mastery digital academy, with plans to also take their advanced Javascript course, NodeJS course, and many others. I am also enrolled in the Salesforce trailhead program where I am learning how to use the Salesforce CRM.
 - 💞️ I’m looking to collaborate on ...
-  -Anything where I can learn something new, And anywhere I can get a chance to write more Javascript!
+  -Anything where I can learn something new, and build something interesting!
 - 📫 How to reach me ...
   -My email: samvrny@gmail.com
   -My Linkedin: www.linkedin.com/in/samuel-varney
