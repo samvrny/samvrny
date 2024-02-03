@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @samvrny, a full stack web developer!
 - 👀 I’m interested in ...
-  - Javascript, web development, and game development
+  - Web development
+  - Game development
+  - Back end development
+  - Gardening
 - 🌱 I’m currently learning ...
   I graduated the University of Wisconsin's coding bootcamp in November 2022. I am currently attending school at Madison Area Technical College in their IT Web Software Developer Associates program where I am learning more about HTML, CSS, JavaScript, SQL, UI/UX development, Java, and PHP. 
 - 💞️ I’m looking to collaborate on ...
